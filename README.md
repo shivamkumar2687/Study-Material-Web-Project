@@ -13,6 +13,9 @@ Books by Famous Authors: Curated collections of books to enhance understanding a
 Subject Overviews: In-depth information and insights about various subjects.
 
 Video Playlists: A curated list of playlists from renowned YouTubers for seamless learning.
+
+![Alt text](https://github.com/shivamkumar2687/Study-Material-Web-Project/blob/main/Home.png?raw=true)
+
 --------------------------------------------------------------------------------------------
 Features
 
@@ -31,6 +34,9 @@ Books from leading authors like Robert C. Martin, Brian Kernighan, and Bjarne St
 
 PDF links and purchase options where applicable.
 
+![Alt text](https://github.com/shivamkumar2687/Study-Material-Web-Project/blob/main/notes.png?)
+
+
 
 3. Subject Overviews
 
@@ -48,6 +54,9 @@ Computer science fundamentals like Operating Systems, Networks, and more.
 Playlists from popular YouTubers such as CodeWithHarry, FreeCodeCamp, and CS50.
 
 Categorized by topics for easy navigation.
+
+![Alt text](https://github.com/shivamkumar2687/Study-Material-Web-Project/blob/main/Video.png?raw=true)
+
 ---------------------------------------------------------------------------------
 
 Usage in VS Code
